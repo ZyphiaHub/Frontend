@@ -1,0 +1,21 @@
+
+body {
+  background-color: rgba(223, 190, 153, 0.305);
+}
+
+h1 {
+    color: rgb(89, 124, 126);
+    text-align: center;
+    
+  }
+.title {
+    font-variant: small-caps;
+}
+
+
+
+p {
+    font-family: f;
+    font-size: 20px;
+}
+
