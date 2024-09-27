@@ -1,6 +1,7 @@
 
 body {
   background-color: rgba(223, 190, 153, 0.305);
+  margin: 20px;
 }
 
 h1 {
@@ -15,7 +16,7 @@ h1 {
 
 
 p {
-    font-family: f;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
     font-size: 20px;
 }
 
