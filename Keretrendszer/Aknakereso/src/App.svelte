@@ -1,7 +1,10 @@
 <script>
     // @ts-nocheck
       var jv = false
+      switch
+      case 1
       const asz = 15
+      var pont = 0
       var aknak = Array.from({length: asz}, _ => '💣')
       .concat (Array.from({length: 100 - asz}, _ => ' '))
       .sort((a, b) => Math.random() - 0.5)
@@ -11,6 +14,10 @@
     </script>
     <main>
       <h1>Aknakereső</h1>
+      <p>Megtalált aknák:  {pont} <br>
+        Még hátra van: {asz - pont}
+
+      </p>
       <table>
         {#each t as row, y}
           <tr>
@@ -40,6 +47,8 @@
                 }
                 if (cell === '💣') {
                   cell = "Z"
+                  pont++
+
                 } else {
                   cell = "z"
                 }
