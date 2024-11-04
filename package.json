@@ -14,7 +14,7 @@
     "lint": "prettier --check .",
     "format": "prettier --write .",
     "deploy": "gh-pages -d build"
-}
+},
 	"devDependencies": {
 		"@playwright/test": "^1.28.1",
 		"@sveltejs/adapter-auto": "^3.0.0",
