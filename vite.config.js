@@ -3,7 +3,7 @@ import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
     plugins: [sveltekit()],
-    base: '/myproject/',
+    base: '/Frontend/',
     build: {
         outDir: 'docs',
         emptyOutDir: true
