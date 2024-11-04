@@ -1,6 +1,6 @@
 <h1>Frontend projects</h1>
 
-    <a href="https://zyphiahub.github.io/Frontend/">Publikus GitHub Repository</a>
+    <a href="https://github.com/ZyphiaHub/Frontend">Publikus GitHub Repository</a>
     
 <style>
     h1 {

@@ -1,5 +1,5 @@
 <a href="/">Kezdő cica</a>
-<a href="/Memorygm">Memória játék</a>
+
 
 <br>
 <slot />
