@@ -1,7 +1,9 @@
 <h1>Frontend projects</h1>
 
 <div class="linklada">
-    <a href="https://example.com" class="button">Receptkönyv</a>
+    <a href="https://zyphiahub.github.io/Receptkonyv/" class="button">Receptkönyv</a>
+    <a href="https://example.com" class="button">...</a>
+    <a href="https://example.com" class="button">...</a>
 </div>
 <p>
         <a target="_blank" href="https://github.com/ZyphiaHub/Frontend.git">
