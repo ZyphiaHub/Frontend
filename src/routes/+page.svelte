@@ -1,6 +1,7 @@
 <h1>Frontend projects</h1>
 
     <a href="https://github.com/ZyphiaHub/Frontend.git">Publikus GitHub Repository</a>
+    <a target="_blank" href="https://github.com/ZyphiaHub/Frontend.git"><img src="https://cdn.iconscout.com/icon/free/png-256/free-github-169-1174970.png" alt="GitHub"></a>
     
 <style>
     h1 {
